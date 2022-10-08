@@ -10,6 +10,9 @@ public class PrivatePublicStatic {
     // note the static - this value is shared with all instances
     private static int counter = 0;
 
+    // note the final - this cannot change
+    public static final int MAX_VALUE = 100;
+
     public void setHiddenInt(int value) {
         hiddenInt = value;
     }

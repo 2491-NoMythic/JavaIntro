@@ -18,7 +18,7 @@ public class IntArray {
         int[] other = new int[] {2, 8, 5, 3, 7};
 
         // change one of the items, the 5, to a 555
-        // note that position 3 of the array is 2 becuase it starts at 0
+        // note that position 3 of the array is 2 because it starts at 0
         other[2] = 555;
 
         for (int i=0; i < 5; i++) {

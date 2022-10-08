@@ -7,7 +7,7 @@ public class SimpleIfThen {
         // a variable that can only be true or false is a boolean
         boolean aValue = true;
 
-        // this is how we make comparisons: if something, so that, else do something else
+        // this is how we make comparisons: if something, do that, else do something else
         if (aValue == true) {
             System.out.println("It's true!");
         } else {

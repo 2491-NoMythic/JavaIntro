@@ -12,7 +12,7 @@ public class UsePrivatePublicStatic {
         two.setHiddenInt(100);
         two.visibleInt = 200;
 
-        // the two class variables are still seperate no matter if private of public
+        // the two class variables are still separate no matter if private of public
         System.out.println("one hidden: " + one.getHiddenInt());
         System.out.println("one visible: " + one.visibleInt);
         System.out.println("two hidden: " + two.getHiddenInt());

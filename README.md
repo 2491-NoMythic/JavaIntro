@@ -4,7 +4,7 @@ Welcome to the Java world. This was designed to be for students in a robotics pr
 Usually on our team, students will have looked at CircuitPython already. Python is a bit easier to start with.
 However, we use Java on the Robot. These examples are to help get you started with Java.
 
-For more, information see the github wiki for this project.
+For more, information see the [github wiki](https://github.com/2491-NoMythic/JavaIntro/wiki) for this project.
 
 ## Folder Structure
 
